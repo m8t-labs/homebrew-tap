@@ -2,10 +2,10 @@
 class M8t < Formula
   desc "CLI for managing m8t deployments on Azure / Microsoft Agent Foundry"
   homepage "https://github.com/m8t-labs/m8t"
-  url "https://registry.npmjs.org/@m8t-stack/cli/-/cli-0.2.153.tgz"
-  sha256 "6e4221bde04e1deefaebe506c91d8a22b5394cdf2a814d721647321a3e6bf11f"
+  url "https://registry.npmjs.org/@m8t-stack/cli/-/cli-0.2.154.tgz"
+  sha256 "1d5c2db457c9af1b8cbf3cab000442cb85e229986bb2694e6038c9052641dbf5"
   license "MIT"
-  version "0.2.153"
+  version "0.2.154"
 
   depends_on "node"
 
